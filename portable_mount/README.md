@@ -3,8 +3,6 @@
 Wireless optical system KORUZA can be mos easily demonstrated or calibrated when put on  sufficiently stable mounting. So far we have used a concrete tile with a mounting bracket, which is very stable but significantly to heavy for shipping or demonstration purposes. Thus, we have developed a lighter and small-form factor version that can be easily shipped inside a box. The new design uses commonly available aluminium extruded profiles and some nuts and bolts from a hardware store.
 
 ![koruza-stand-1](img/koruza-stand-1.JPG)
-![koruza-stand-2](img/koruza-stand-2.JPG)
-![koruza-stand-3](img/koruza-stand-3.JPG)
 
 # Bill of materials
 
@@ -20,3 +18,6 @@ Wireless optical system KORUZA can be mos easily demonstrated or calibrated when
  
 # Assembly instructions
 Join the three aluminium profiles as shown in the photos with A and T pieces. Add one screw on shorter piece as a stop for KORUZA unit to sit on. Add three legs.
+
+![koruza-stand-2](img/koruza-stand-2.JPG)
+![koruza-stand-3](img/koruza-stand-3.JPG)
