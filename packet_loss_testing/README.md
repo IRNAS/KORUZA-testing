@@ -30,3 +30,8 @@ Packet loss and other tests can be performed via Mikrotik web interface, such th
 For example, when KORUZA units are connected to test routers on SFP+ port 1 on both units, you can from Mikrotik-test-1a ping Mikrotik-test-1b with IP 172.20.8.20
 
 Note that if you do a bandwidth test, these Mikrotik routers can only generate up to 450Mbps.
+
+[![koruza-10g-diagram](img/koruza-10g-diagram.png)
+[![koruza-10g-router-a](img/koruza-10g-router-a.png)
+[![koruza-10g-router-b](img/koruza-10g-router-b.png)
+[![koruza-10gb-test-setup](img/koruza-10gb-test-setup.JPG)
