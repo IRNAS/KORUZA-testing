@@ -9,7 +9,8 @@ Check  repository [koruza-instructions](https://github.com/IRNAS/KORUZA-instruct
 Should you need any support with KORUZA system, get in touch with Institute IRNAS team and others involved in the project via [chat](https://chat.irnas.eu/).
 
 ---
-##Buy
+## Buy
+
 You can order KORUZA from our partner company [Fabrikor](http://fabrikor.eu/koruza).
 
 ---
